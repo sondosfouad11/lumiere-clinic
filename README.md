@@ -19,3 +19,7 @@ npm run build    # production build -> dist/
 
 ## Deploy
 Push to GitHub, then Netlify / Vercel / GitHub Pages (`dist/` is the output; `base: "./"` is already set).
+
+## Author & License
+Designed and developed by **Sondos Lasheen** (UI/UX & Front-end). This is a personal portfolio project.
+Copyright (c) 2026 Sondos Lasheen. All rights reserved. The code is public for viewing only; see `LICENSE`.
