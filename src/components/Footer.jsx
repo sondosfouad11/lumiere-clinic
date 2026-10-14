@@ -34,6 +34,7 @@ export default function Footer() {
       <p className="footer-wordmark" aria-hidden="true">{clinic.name}</p>
       <div className="container footer-base">
         <p>&copy; 2026 {clinic.name} – {clinic.tagline}. All rights reserved.</p>
+        <p>Demo portfolio project. Designed &amp; developed by Sondos Lasheen.</p>
       </div>
     </footer>
   );
