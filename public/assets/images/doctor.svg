@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 499 674" width="499" height="674">
+  <!-- Generic illustrated portrait (dummy). Transparent background so the hero layers show through. -->
+  <defs>
+    <linearGradient id="coat" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#FFFFFF"/><stop offset="1" stop-color="#E9E6DA"/></linearGradient>
+    <linearGradient id="hijab" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#8E9A70"/><stop offset="1" stop-color="#5D6A3E"/></linearGradient>
+  </defs>
+  <path d="M40 674 C40 560 90 500 170 478 L329 478 C409 500 459 560 459 674 Z" fill="url(#coat)" stroke="#D3DAC6" stroke-width="3"/>
+  <path d="M210 478 L250 590 L290 478 Z" fill="#F3ECDD"/>
+  <path d="M170 478 L250 674 L210 478 Z M329 478 L250 674 L290 478 Z" fill="#E3E5D3"/>
+  <path d="M120 400 C120 270 170 190 250 190 C330 190 380 270 380 400 C380 460 330 500 250 520 C170 500 120 460 120 400Z" fill="url(#hijab)"/>
+  <ellipse cx="250" cy="330" rx="78" ry="98" fill="#E8C9A8"/>
+  <path d="M172 310 C180 240 320 240 328 310 C300 270 200 270 172 310Z" fill="#6E7B4F"/>
+  <circle cx="222" cy="332" r="5" fill="#3D4530"/><circle cx="278" cy="332" r="5" fill="#3D4530"/>
+  <path d="M226 382 Q250 400 274 382" fill="none" stroke="#B5736A" stroke-width="5" stroke-linecap="round"/>
+  <rect x="232" y="420" width="36" height="40" rx="14" fill="#E8C9A8"/>
+  <path d="M190 560 q-10 40 30 70" fill="none" stroke="#3D4530" stroke-width="5" stroke-linecap="round"/>
+  <circle cx="220" cy="634" r="12" fill="none" stroke="#3D4530" stroke-width="5"/>
+</svg>
